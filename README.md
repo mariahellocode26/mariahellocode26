@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- AI / Backend Software Engineer
+- AI / Software Engineer
 - ex AWS Software Engineer
 -  I’m currently working on the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp) 
 

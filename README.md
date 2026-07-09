@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- AI / Backend Software Engineer
+- ex AWS Software Engineer
+-  I’m currently working on the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp) 
+
 <!--
 **mariahellocode26/mariahellocode26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

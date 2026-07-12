@@ -3,7 +3,7 @@
 - AI / Software Engineer
 - ex Amazon / AWS Software Engineer
 -  I’m currently working on the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp)
--  - 📫 How to reach me: mariahany329@gmail.com
+-  📫 How to reach me: mariahany329@gmail.com
 
 <!--
 **mariahellocode26/mariahellocode26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

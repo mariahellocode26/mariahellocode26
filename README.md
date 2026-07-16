@@ -12,6 +12,7 @@
 | **Frontend** | JavaScript, React.js, TypeScript, HTML5/CSS3 |
 | **Backend** | Python, Java, REST APIs |
 | **Databases** | Dynamodb, PostgreSQL |
+| **AI/ML Toolkit** | RAG, AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API |
 | **DevOps & Tools** | Git, GitHub Actions, Docker, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch) |
 
 

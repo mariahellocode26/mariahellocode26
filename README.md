@@ -20,8 +20,8 @@
 ### Latest project
 Check my DevDocs AI RAG Chat
 
+<img width="1267" height="720" alt="streamlit-app-2026-07-28-13-36-02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b566e34c-2943-4a8b-ac23-86f801fe95fe" />
 
-![Uploading streamlit-app-2026-07-28-13-36-02-ezgif.com-video-to-gif-converter.gif…]()
 
 
 

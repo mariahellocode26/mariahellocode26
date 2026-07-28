@@ -17,6 +17,12 @@
 | **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, Vector Embeddings, Grafana, Streamlit |
 | **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch) |
 
+### Latest project
+Check my DevDocs AI RAG Chat
+
+
+![Uploading streamlit-app-2026-07-28-13-36-02-ezgif.com-video-to-gif-converter.gif…]()
+
 
 
 <!--

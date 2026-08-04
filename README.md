@@ -4,6 +4,7 @@
 - ex Amazon / AWS Software Engineer
 -  I’m currently working on the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp)
 -  📫 How to reach me: mariahany329@gmail.com
+-   I’m looking to collaborate on RAG projects with different dataset types.
 
 ### 🛠️ Tech Stack & Skills
 

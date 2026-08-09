@@ -19,7 +19,7 @@
 | **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch) |
 
 ### Latest project
-Check my DevDocs AI RAG Chat:  [DevDocs-AI-RAG-Chat] (https://github.com/mariahellocode26/DevDocs-AI-RAG-Chat)
+Check my DevDocs AI RAG Chat:  [DevDocs-AI-RAG-Chat](https://github.com/mariahellocode26/DevDocs-AI-RAG-Chat)
 
 <img width="1267" height="720" alt="streamlit-app-2026-07-28-13-36-02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b566e34c-2943-4a8b-ac23-86f801fe95fe" />
 

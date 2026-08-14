@@ -20,6 +20,7 @@
 
 ### Latest project
 Check my DevDocs AI RAG Chat:  [DevDocs-AI-RAG-Chat](https://github.com/mariahellocode26/DevDocs-AI-RAG-Chat)
+ - [Project slides](https://docs.google.com/presentation/d/1cFlQA3p99a2MHw24FWnsd8SgfJfVGxuG/edit?usp=sharing&ouid=118375451779439394573&rtpof=true&sd=true)
 
 <img width="1267" height="720" alt="streamlit-app-2026-07-28-13-36-02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b566e34c-2943-4a8b-ac23-86f801fe95fe" />
 

@@ -13,7 +13,7 @@
 | **Frontend** | JavaScript, React.js, TypeScript, HTML5/CSS3 |
 | **Backend** | Python, Java, REST APIs |
 | **Databases** | Dynamodb, PostgreSQL |
-| **AI/ML & Core LLMs** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Prompt Engineering  |
+| **AI/ML & Core LLMs** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Prompt Engineering, scikit-learn  |
 | **RAG & Search Systems** | Retrieval-Augmented Generation (RAG), Vector Search, Hybrid Search, Keyword Search (BM25), Text Chunking, Function Calling |
 | **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, MRR (Mean Reciprocal Rank), Hit@k metrics, Vector Embeddings, Grafana, Streamlit |
 | **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch) |

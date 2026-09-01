@@ -15,8 +15,8 @@
 | **Databases** | Dynamodb, PostgreSQL |
 | **AI/ML & Core LLMs** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Prompt Engineering, scikit-learn  |
 | **RAG & Search Systems** | Retrieval-Augmented Generation (RAG), Vector Search, Hybrid Search, Keyword Search (BM25), Text Chunking, Function Calling |
-| **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, MRR (Mean Reciprocal Rank), Hit@k metrics, Vector Embeddings, Grafana, Streamlit |
-| **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, CLI, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch) |
+| **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, Retrieval evaluation (Hit@k, MRR), MRR (Mean Reciprocal Rank), Hit@k metrics, Vector Embeddings, Grafana, Streamlit |
+| **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, CLI, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch, SQS, SNS) |
 
 ### Latest project
 Check my DevDocs AI RAG Chat:  [DevDocs-AI-RAG-Chat](https://github.com/mariahellocode26/DevDocs-AI-RAG-Chat)

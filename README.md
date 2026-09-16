@@ -19,7 +19,7 @@
 | **AI/ML & Core LLMs** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Claude Code, Prompt Engineering, scikit-learn  |
 | **RAG & Search Systems** | Retrieval-Augmented Generation (RAG), Vector Search, Hybrid Search, Keyword Search (BM25), Text Chunking, Function Calling |
 | **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, Retrieval evaluation (Hit@k, MRR), MRR (Mean Reciprocal Rank), Hit@k metrics, Vector Embeddings, Grafana, Streamlit |
-| **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, AI-Driven Spec-to-Cod, CLI, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch alarms and dashboards, SQS, SNS, AWS CDK), GCP (Firestore) |
+| **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, Linux, AI-Driven Spec-to-Cod, CLI, AWS (S3, EC2, API Gateway, Lambda, CDK, Step Functions, Cloud Watch alarms and dashboards, SQS, SNS, AWS CDK), GCP (Firestore) |
 
 ### Latest project
 Check my DevDocs AI RAG Chat:  [DevDocs-AI-RAG-Chat](https://github.com/mariahellocode26/DevDocs-AI-RAG-Chat)

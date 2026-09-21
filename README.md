@@ -3,7 +3,7 @@
 - AI / Software Engineer
 - ex Amazon / AWS Software Engineer
 -  I finished the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp)
--  I’m currently working on the [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
+-  I’m currently learning the [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
 -  📫 How to reach me: mariahany329@gmail.com
 -  ⭐️ I like building AI systems that are not only capable, but also evaluated, observable, and maintainable.
 -   I’m looking to collaborate on RAG projects with different dataset types.

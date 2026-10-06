@@ -2,6 +2,7 @@
 
 - AI / Software Engineer
 - ex Amazon / AWS Software Engineer
+- 💬 About me: Structured, Organized, and very goal oriented.
 -  I finished the [llm zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp)
 -  I’m currently learning the [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp)
 -  📫 How to reach me: mariahany329@gmail.com

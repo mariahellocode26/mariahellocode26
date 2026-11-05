@@ -18,7 +18,7 @@
 | **Frontend** | JavaScript, React.js, TypeScript, HTML5/CSS3 |
 | **Backend** | Python, Java, REST APIs |
 | **Databases** | SQL, NoSQL, Dynamodb, PostgreSQL|
-| **AI/ML & Core LLMs & AI Tools** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Claude Code, Prompt Engineering, scikit-learn, Lovable  |
+| **AI/ML & Core LLMs & AI Tools** | AI agents, LLMs (gpt-5.4-mini, gemini-2.5-flash), OpenAI API, Gemini API, Claude Code, Prompt Engineering, scikit-learn, Fullstack + GenAI, Lovable  |
 | **RAG & Search Systems** | Retrieval-Augmented Generation (RAG), Vector Search, Hybrid Search, Keyword Search (BM25), Text Chunking, Function Calling |
 | **RAG Eval & MLOps** | RAG Evaluation (Ragas / LLM-as-a-Judge), LLM Monitoring & Tracing, Retrieval evaluation (Hit@k, MRR), MRR (Mean Reciprocal Rank), Hit@k metrics, Vector Embeddings, Grafana,and Streamlit |
 | **DevOps & Tools** | Git, GitHub Actions, CI/CD, Docker, Linux, AI-Driven Spec-to-Cod, CLI, AWS (S3, EC2, ECS, API Gateway, IAM, Lambda, CDK, Step Functions, Cloud Watch alarms and dashboards, SQS, SNS, AWS CDK, CloudFormation), GCP (Firestore) |
